@@ -2,10 +2,6 @@
 
 ### Curso básico del nextjs 2023
 
-> Este curso esta genial explicación sensilla
+> Este curso esta genial explicación sencilla
 
-::: Tip Desarrollar
-Estrategias
-
-
-:::
+Mejorar el desarrollo
