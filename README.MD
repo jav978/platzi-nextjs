@@ -2,4 +2,10 @@
 
 ### Curso básico del nextjs 2023
 
-> Este curso esta genial
+> Este curso esta genial explicación sensilla
+
+::: Tip Desarrollar
+Estrategias
+
+
+:::
