@@ -12,6 +12,14 @@
   ],
   "rootMainFiles": [],
   "pages": {
+<<<<<<< HEAD
+=======
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+    ],
+>>>>>>> jose-api
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
